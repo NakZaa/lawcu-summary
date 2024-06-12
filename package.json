@@ -1,0 +1,32 @@
+{
+  "name": "lawcu",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.1.3",
+    "classnames": "^2.5.1",
+    "framer-motion": "^11.2.10",
+    "next": "14.2.3",
+    "pnpm": "^9.3.0",
+    "react-dom": "^18",
+    "react-lines-ellipsis": "^0.15.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/react-lines-ellipsis": "^0.15.6",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3",
+    "postcss": "^8",
+    "react": "link:@types/heroicons/react",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
