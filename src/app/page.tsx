@@ -1,6 +1,6 @@
 import { Button } from "@/components/button";
 import Card from "@/components/card";
-import { Book } from "@/vectors/book";
+import { Book } from "@/svgs/book";
 import Image from "next/image";
 
 const Summary = [
